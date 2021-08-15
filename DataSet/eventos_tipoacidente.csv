@@ -1,0 +1,291 @@
+tipo_de_acidente;grupo_tdacidente;sub_grupo_tdacidente
+Colisão Traseira;Colisao;Colisão Traseira
+Saida de Pista;Saída de Pista;Saída de Pista
+Colisão Lateral;Colisao;Colisão Lateral
+Capotamento;Capotamento;Capotamento
+Engavetamento;Colisao;Engavetamento
+"Choque - Defensa, barreira ou ""submarino""";Choque;Choque Objeto
+Choque - Objeto Fixo;Choque;Choque Objeto
+Queda de Moto;Queda;Queda de Moto
+Colisão traseira;Colisao;Colisão Traseira
+Tombamento;Tombamento;Tombamento
+Colisão Transversal;Colisao;Colisão Transversal
+Abalroamento longitudinal;Choque;Choque com Veiculos
+Choque - Elemento de Drenagem;Choque;Choque Objeto
+Choque em objeto fixo;Choque;Choque Objeto
+Colisão Frontal;Colisao;Colisao Frontal
+Atropelamento de Animal;Choque;Choque com Animal
+Saída de Pista;Saída de Pista;Saída de Pista
+Queda de moto;Queda;Queda de Moto
+Choque em barreira New Jersey;Choque;Choque Objeto
+Outros;Outros;Outros
+Outros - Sequência;Outros;Outros
+Choque - Defensa, barreira ou  submarino;Choque;Choque Objeto
+Abalroamento Longitudinal;Choque;Choque com Veiculos
+Choque em objeto na pista;Choque;Choque Objeto
+Choque - Talude;Choque;Choque Objeto
+Derrapagem;Derrapagem;Derrapagem
+Choque - Objeto sobre a pista;Choque;Choque Objeto
+Choque em Barreira New Jersey;Choque;Choque Objeto
+Choque - Outros;Choque;Choque Objeto
+Choque - Suporte de Sinalização;Choque;Choque Objeto
+Choque com objeto fixo;Choque;Choque Objeto
+Choque em defensa;Choque;Choque Objeto
+Atropelamento - Morador;Atropelamento;Atropelamento
+Colisão - Traseira;Colisao;Colisão Traseira
+Queda de ribanceira;Queda;Queda de ribanceira
+Colisão com veículos (traseira);Colisao;Colisão Traseira
+Objeto lançado contra veículo;Colisao;Objeto Lançado Contra Veiculo
+Atropelamento - Animal;Atropelamento;Atropelamento de Animal
+Atropelamento de pedestre atravessando;Atropelamento;Atropelamento
+Atropelamento de animal;Atropelamento;Atropelamento de Animal
+Abalroamento - Longitudinal;Choque;Choque com Veiculos
+Atropelamento - Ciclista;Atropelamento;Atropelamento
+;Missing;Missing
+Atropelamento - Pedestre;Atropelamento;Atropelamento
+Choque em veículo parado na pista;Choque;Choque Objeto
+Colisão c/ obstáculos;Colisao;Colisão com Objeto
+Choque com Objeto Fixo;Choque;Choque Objeto
+Atropelamento - Andarilho;Atropelamento;Atropelamento
+Choque c/ Objeto Fixo;Choque;Choque Objeto
+Colisão lateral no mesmo sentido;Colisao;Colisão Lateral
+Choque - Poste;Choque;Choque Objeto
+Saídas de pista;Saída de Pista;Saída de Pista
+Choque - Cancela de Pedagio;Choque;Choque Objeto
+Queda de Carga;Queda;Queda de Carga
+Tombamento de Moto;Queda;Queda de Moto
+Abalroamento transversal;Choque;Choque com Veiculos
+Colisão - Lateral;Colisao;Colisão Lateral
+Outros - sequências;Outros;Outros
+Colisão frontal;Colisao;Colisao Frontal
+Colisão lateral no sentido contrário;Colisao;Colisão Lateral
+Atropelamento de Pedestre;Atropelamento;Atropelamento
+Choque Talude;Choque;Choque Objeto
+Choque em Defensa;Choque;Choque Objeto
+Atropelamento de animais;Atropelamento;Atropelamento de Animal
+Abalr.Transversal;Choque;Choque com Veiculos
+Choque - Arvore;Choque;Choque Objeto
+Tombamento de moto;Queda;Queda de Moto
+Atropelamento - Usuário;Atropelamento;Atropelamento
+Atropelamento;Atropelamento;Atropelamento
+Choque - Veiculo parado na pista;Choque;Choque Veiculo parado
+Atropelamento - Outros;Atropelamento;Atropelamento
+Colisão lateral;Colisao;Colisão Lateral
+Choque - Defensa, barreira ou meio fio;Choque;Choque Objeto
+Atropelamento de Pedestre Atravessando;Atropelamento;Atropelamento
+Saída de pista;Saída de Pista;Saída de Pista
+Choque - Veiculo parado no acostamento;Choque;Choque Veiculo parado
+Não Def;Missing;Missing
+Atropelamento de pedestre caminhando;Atropelamento;Atropelamento
+Abalr. Transversal;Choque;Choque com Veiculos
+Queda de Ciclista;Queda;Queda de Ciclista
+Choque Contra Objeto Fixo;Choque;Choque Objeto
+Colisão com veículos (frontal);Colisao;Colisao Frontal
+Veículo em Chamas;Outros;Veículo em Chamas
+Colisão;Colisao;Colisão Outros
+Acidentes de outra natureza;Outros;Outros
+Colisão transversal;Colisao;Colisão Transversal
+Abalroamento - Transversal;Choque;Choque com Veiculos
+Atropelamento - Sem Informação;Atropelamento;Atropelamento
+Atropelamento - Pedestre atravessando;Atropelamento;Atropelamento
+Colisão com Objeto Fixo;Colisao;Colisão com Objeto
+Choque Defensa;Choque;Choque Objeto
+Choque;Choque;Choque Objeto
+Sequência;Outros;Outros
+Atropelamento de pedestre;Atropelamento;Atropelamento
+Carreta deu L;Outros;Outros
+Abalr.Mesmo Sentido;Choque;Choque com Veiculos
+Queda de ciclista;Queda;Queda de Ciclista
+Outros tipos de acidente;Outros;Outros
+Colisão com ciclista;Colisao;Colisão com ciclista
+Norte;Outros;Outros
+Atropelamento e Fuga;Atropelamento;Atropelamento
+Atropelamento Animal;Atropelamento;Atropelamento de Animal
+Choque contra Objeto Fixo;Choque;Choque Objeto
+Atropelamento de ciclista;Atropelamento;Atropelamento
+Abalroamento Mesmo Sentido;Choque;Choque com Veiculos
+Atropelamento de Pedestre Caminhando;Atropelamento;Atropelamento
+Sul;Outros;Outros
+Choque - Defensa;Choque;Choque Objeto
+Abalroamento Transversal;Choque;Choque com Veiculos
+Atropelamento - Pessoa;Atropelamento;Atropelamento
+Choque Barreira;Choque;Choque Objeto
+Atropelamento - Funcionário;Atropelamento;Atropelamento
+Abalr.Sentido Oposto;Choque;Choque com Veiculos
+Choque contra objeto na faixa de rolamento;Choque;Choque Objeto
+Atropelamento - Ambulante;Atropelamento;Atropelamento
+Choque - Sinalização;Choque;Choque Objeto
+Choque com objeto;Choque;Choque Objeto
+Choque - Meio fio;Choque;Choque Objeto
+Colisão - Transversal;Colisao;Colisão Transversal
+Atropelamento  de Pedestre;Atropelamento;Atropelamento
+Atropelamento de Cachorro;Atropelamento;Atropelamento
+Choque - Objeto não identificado;Choque;Choque Objeto
+Colisão - Frontal;Colisao;Colisao Frontal
+Atropel. de pedestre atravessando;Atropelamento;Atropelamento
+Atropelamento - Pedestre caminhando;Atropelamento;Atropelamento
+Choque - Defensa metálica;Choque;Choque Objeto
+Abalr. Mesmo Sentido;Choque;Choque com Veiculos
+Atropelamento de Ciclista;Atropelamento;Atropelamento
+Abalroamento - Mesmo Sentido;Choque;Choque com Veiculos
+Choque- Placa/Suporte Sinalização;Choque;Choque Objeto
+Queda de carga;Queda;Queda de Carga
+Queda Veículo;Queda;Queda de Veiculo
+Atropelamento de Equino;Atropelamento;Atropelamento de Animal
+Choque com Veículo Estacionado;Choque;Choque Objeto
+Abalroamento Sentido Oposto;Choque;Choque com Veiculos
+Choque - Meio Fio;Choque;Choque Objeto
+Choque - New jersey;Choque;Choque Objeto
+Queda;Queda;Quedas Outras
+Choque - Obstáculo Fixo;Choque;Choque Objeto
+Atropel. de pedestre caminhando;Atropelamento;Atropelamento
+Atropelamento de Bovino;Atropelamento;Atropelamento de Animal
+Choque - Barranco;Choque;Choque Objeto
+Choque veículo parado na pista;Choque;Choque Objeto
+Choque - Barreira;Choque;Choque Objeto
+Atropelamento - Bovino;Atropelamento;Atropelamento de Animal
+Abalr. Sentido Oposto;Choque;Choque com Veiculos
+Soterramento;Outros;Soterramento
+Colisão Traseira - veículos;Colisao;Colisão Traseira
+Choque com objeto sobre a pista;Choque;Choque Objeto
+Saida de pista;Saída de Pista;Saída de Pista
+Submersão;Outros;Outros
+Choque- Poste/Equipamento;Choque;Choque Objeto
+Atropelamento - Equino;Atropelamento;Atropelamento de Animal
+colisão traseira;Colisao;Colisão Traseira
+Colisão Lateral Mesmo Sentido;Colisao;Colisão Lateral
+Incêndio;Outros;Veículo em Chamas
+Queda de Ponte/Viaduto;Queda;Queda de Ponte/Viaduto
+Abalroamento - Sentido Oposto;Choque;Choque com Veiculos
+Colisão com objeto fixo;Colisao;Colisão com Objeto
+Choque com veículo na faixa de rolamento;Choque;Choque Objeto
+Queda de Bicicleta;Queda;Queda de Bicicleta
+Incidente;Outros;Veículo em Chamas
+Choque - Talude ou Barranco;Choque;Choque Objeto
+Danos Eventuais;Outros;Outros
+Atropelamento - Morador/Trabalhador/Estudante;Atropelamento;Atropelamento
+Outros Tipos de Acidente;Outros;Outros
+Colisão Lateral - mesmo sentido;Colisao;Colisão Lateral
+Choque Praça - Cabine;Choque;Choque Objeto
+Acidente - Outra Natureza;Outros;Outros
+Atropelamento de Andarilho;Atropelamento;Atropelamento
+Choque em Objeto Fixo;Choque;Choque Objeto
+Queda de Ribanceira;Queda;Queda de ribanceira
+Choque Praça - Submarino;Choque;Choque Objeto
+Queda de vegetação c/ veículo;Queda;Queda de Vegetacao
+Travessia Canteiro Central;Outros;Outros
+Saída de  Pista;Saída de Pista;Saída de Pista
+Choque Praça;Choque;Choque Objeto
+Atropelamento em abrigo de ônibus;Atropelamento;Atropelamento
+ERROR:#N/A;Missing;Missing
+Colisão Frontal - veículos;Colisao;Colisao Frontal
+Choque com veículo no acostamento;Choque;Choque Objeto
+Atropelamento - Esportista;Atropelamento;Atropelamento
+Choque em Objeto fixo;Choque;Choque Objeto
+Abalroamento mesmo sentido;Choque;Choque com Veiculos
+Colisão com Obstáculos;Colisao;Colisão com Objeto
+Abalroamento transversal.;Choque;Choque com Veiculos
+Choque c/ Veículo Parado;Choque;Choque Objeto
+derrapagem;Derrapagem;Derrapagem
+Queda em Ribanceira;Queda;Queda de ribanceira
+Atropelamento - Cachorro;Atropelamento;Atropelamento de Animal
+Queda de ponte/viaduto;Queda;Queda de Ponte/Viaduto
+Choque - Pilar;Choque;Choque Objeto
+Abalr.Mesmo sentido;Choque;Choque com Veiculos
+Colisão Lateral Sentido Oposto;Colisao;Colisão Lateral
+Choque com objeto na pista;Choque;Choque Objeto
+Queda de carga sobre a pista;Queda;Queda de Carga
+Colisão com objeto Fixo;Colisao;Colisão com Objeto
+Colisão Lateral - sentido contrário;Colisao;Colisão Lateral
+Abalroamento no Mesmo Sentido;Choque;Choque com Veiculos
+Choque contra veículo no acostamento;Choque;Choque Objeto
+Choque com objeto sobre a pist;Choque;Choque Objeto
+Atropelamento - Morador/Trabalhador;Atropelamento;Atropelamento
+Queda de veículo em ribanceira, ponte ou viaduto;Queda;Queda de Veiculo
+Choque - Submarino;Choque;Choque Objeto
+Explosão;Outros;Veículo em Chamas
+Choque - Canaleta;Choque;Choque Objeto
+Choque na Praça - Submarino;Choque;Choque Objeto
+Choque na Praça - Cabine;Choque;Choque Objeto
+choque em objeto fixo;Choque;Choque Objeto
+Transposição de Pista;Outros;Outros
+Choque - Poste/;Choque;Choque Objeto
+Outros Tipos de acidente;Outros;Outros
+INCIDENTE - Colisão na Praça - Cancela;Colisao;Colisão com Objeto
+INCIDENTE - Choque na Praça - Cancela;Choque;Choque com Objeto
+Atropelamento - Abrigo de ônibus;Atropelamento;Atropelamento
+Colisão com veículo da concessionária;Colisao;Colisão com Veiculo
+Atropelamento sem morte;Atropelamento;Atropelamento
+Abalroamento sentido Oposto;Choque;Choque com Veiculos
+Abalr.mesmo sentido;Choque;Choque com Veiculos
+Abalroamento em sentido oposto;Choque;Choque com Veiculos
+colisão Frontal;Colisao;Colisao Frontal
+choque - Objeto Fixo;Choque;Choque Objeto
+Queda de barreira, ribanceira, ponte ou viaduto;Queda;Queda de Veiculo
+Outros(especificar);Outros;Outros
+Outros tipos de Acidente;Outros;Outros
+Choque - Caixa de Captação/Fibra;Choque;Choque Objeto
+Choque - Cabine de Pedágio;Choque;Choque Objeto
+Colisão na Praça - Submarino;Colisao;Colisão com Objeto
+Abalroamento  no mesmo sentido;Choque;Choque com Veiculos
+Abalr. Sentido Oposto.;Choque;Choque com Veiculos
+Abalr.em mesmo sentido;Choque;Choque com Veiculos
+Choque com veículo da concessionária estacionado;Choque;Choque Objeto
+capotamento;Capotamento;Capotamento
+Queda de Viaduto;Queda;Queda de Ponte/Viaduto
+Atropelamento - Bubalino;Atropelamento;Atropelamento de Animal
+Outros - seguências;Outros;Outros
+Colisão objeto fixo;Colisao;Colisão com Objeto
+Colisão na Praça - Cancela;Colisao;Colisão com Objeto
+Abalr. Sentido oposto;Choque;Choque com Veiculos
+Colisão com Veículo Estac.;Colisao;Colisão com Veiculo
+Colisão com Objeto fixo;Colisao;Colisão com Objeto
+Choque na praça ? submarino;Choque;Choque Objeto
+Abalroamento no mesmo sentido;Choque;Choque com Veiculos
+Abal.mesmo.sentido;Choque;Choque com Veiculos
+Atropelamento Ciclista;Choque;Choque com Veiculos
+Abalr. Mesmo sentido;Choque;Choque com Veiculos
+Abalroamento em mesmo sentido;Choque;Choque com Veiculos
+Abalroamento em Sent.Oposto;Choque;Choque com Veiculos
+Teste Wanderson;Outros;Outros
+Abal. Sentido Oposto;Choque;Choque com Veiculos
+Abalroamento Trarnversal;Choque;Choque com Veiculos
+Abalr.Sent.Oposto;Choque;Choque com Veiculos
+Queda de Carro;Queda;Queda de Veiculo
+Problema Mecanico / Eletrico;Outros;Outros
+Outros Tipos;Outros;Outros
+Abal.sentido. Oposto;Choque;Choque com Veiculos
+Não Localizado / Evadiu-se;Outros;Outros
+Não Def.;Outros;Outros
+Imprudência;Outros;Outros
+Derramamento de Carga;Derrapagem;Derrapagem
+Abal.Transversal;Choque;Choque com Veiculos
+Abal.sent.oposto;Choque;Choque com Veiculos
+Colisão com veículo estacionado;Colisao;Colisão com Veiculo
+Colisão Ojeto Fixo;Colisao;Colisão com Objeto
+Ablr.Sentido Oposto;Choque;Choque com Veiculos
+Colisão Objeto Fixo;Colisao;Colisão com Objeto
+Abalroamente Transversal;Choque;Choque com Veiculos
+Abalrroamento Transversal.;Choque;Choque com Veiculos
+Abalromanemto mesmo sentido;Choque;Choque com Veiculos
+Abalroamanento Traversasl;Choque;Choque com Veiculos
+Choque-outros;Choque;Choque Objeto
+Abalr.sentido oposto;Choque;Choque com Veiculos
+Choque na cancela;Choque;Choque Objeto
+Abalroamento no mesmo Sentido;Choque;Choque com Veiculos
+Atropelamento com morte;Atropelamento;Atropelamento
+Choque com veículo na faixa de;Choque;Choque Objeto
+Atropelamento - PedestreFuncionário;Atropelamento;Atropelamento
+Atropelamento - Pedestre Usuário;Atropelamento;Atropelamento
+Atropelamento - Pedestre Andarilho;Atropelamento;Atropelamento
+colisão frontal;Colisao;Colisao Frontal
+atropelamento;Atropelamento;Atropelamento
+abalr.mesmo Sentido;Choque;Choque com Veiculos
+abalr. Transversal;Choque;Choque com Veiculos
+Choque / árvore;Choque;Choque Objeto
+Abal.mesmo sentido;Choque;Choque com Veiculos
+Choque / objeto não identificado;Choque;Choque Objeto
+"Choque / defensa, barreira ou ""submarino""";Choque;Choque Objeto
+Atropelamento - Esportista/Romeiro;Atropelamento;Atropelamento 
+Choque - Defensa, barreira ou submarino;Choque;Choque Objeto
+ ;Missing;Missing

@@ -1,0 +1,63 @@
+tipo_de_ocorrencia;grupo_tdocorrencia
+sem vítima;sem vítima
+com vítima;com vítima
+Acidente sem Vítima;sem vítima
+3 - Acidente com Danos Materiais;sem vítima
+Acidente sem vítima;sem vítima
+Acidente com vítima;com vítima
+Acidente com Vítima;com vítima
+2 - Acidente com VITIMA;com vítima
+Acidente sem Vítimas;sem vítima
+AC03 - Acidente sem VITIMA;sem vítima
+Acidente com Vítimas;com vítima
+ac03 - Acidente com Danos Materiais;sem vítima
+AC03 - ACIDENTE SEM VÍTIMA;sem vítima
+Acidente sem VITIMA;sem vítima
+AC02 - Acidente com VITIMA;com vítima
+Sem vítima;sem vítima
+ASV - Acidente SEM Vítima;sem vítima
+Atropelamento sem Morte;sem vítima
+ac02 - Acidente com Vítima;com vítima
+AC02 - ACIDENTE COM VÍTIMA;com vítima
+Acidente com VITIMA;com vítima
+3 - Acidente com Vitima Sem Lesão;sem vítima
+ac03 - Acidente com vítima ilesa;com vítima
+AV - Acidente com VITIMA;com vítima
+Acidente com Morte;com vítima
+ac02 - Acidente com vítima;com vítima
+Atropelamento sem morte;sem vítima
+Acidente com morte;com vítima
+2 - Acidente com Vitima;com vítima
+1 - Acidente com Vitima Fatal;com vítima
+Atropelamento com Morte;com vítima
+Atropelamento com morte;com vítima
+Acidente Fatal;com vítima
+AC01 - ACIDENTE COM VÍTIMA FATAL;com vítima
+AF - Acidente com Vitima Fatal;com vítima
+ac01 - Acidente com Vítima Fatal;com vítima
+AC04 - Atropelamento;sem vítima
+Acidente sem Vítima - TRECHO CONTORNO;sem vítima
+Acidente com VITIMA FATAL;com vítima
+AC3 - Acidente sem VITIMA;sem vítima
+ac01 - Acidente com vitima fatal;com vítima
+Atropelamento;sem vítima
+AC01 - Acidente com VITIMA FATAL;com vítima
+AC2 - Acidente com VITIMA;com vítima
+ac03 - Acidente sem Vitimas;sem vítima
+Acidente com Vítima - TRECHO CONTORNO;com vítima
+Acidente sem vítima - TRECHO CONTORNO;sem vítima
+ac02 - Acidente com VITIMA;com vítima
+AC05 - Atropelamento Fatal;com vítima
+Acidente com vítima - TRECHO CONTORNO;com vítima
+Atropelamento Fatal;com vítima
+A PP - Acidente envolvendo Produto Perigoso;sem vítima
+;Missing
+A PPV - Acidente envolvendo Produto Perigoso com vitima;com vítima
+AC1 - Acidente com VITIMA FATAL;com vítima
+Acidente com Morte - TRECHO CONTORNO;com vítima
+ac01 - Acidente com Vitima Fatal;com vítima
+Atropelamento sem morte - TRECHO CONTORNO;sem vítima
+Atropelamento sem Morte - TRECHO CONTORNO;sem vítima
+A PPF - Acidente envolvendo Produto Perigoso vitima fatal;com vítima
+Acidente com morte - TRECHO CONTORNO;com vítima
+Missing;Missing
